@@ -68,6 +68,23 @@ const App = () => {
       <p className={`${styles.heading} ${styles.center}`}>
         C.R.I. FLUID SYSTEMS PRODUCTS CATER TO DIVERSE SEGMENTS
       </p>
+      <p className={styles.center}>
+        CHEMICALS & PROCESS <span className={styles.vert_line}>|</span> POWER{" "}
+        <span className={styles.vert_line}>|</span> WATER & WASTE WATER{" "}
+        <span className={styles.vert_line}>|</span> OILS & GAS{" "}
+        <span className={styles.vert_line}>|</span> PHARMA{" "}
+        <span className={styles.vert_line}>|</span> SUGARS & DISTILLERIES{" "}
+        <span className={styles.vert_line}>|</span> PAPER & PULP{" "}
+        <span className={styles.vert_line}>|</span> MARINE & DEFENCE{" "}
+        <span className={styles.vert_line}>|</span> METAL & MINING{" "}
+        <span className={styles.vert_line}>|</span> FOOD & BEVERAGE{" "}
+        <span className={styles.vert_line}>|</span> PETROCHEMICAL & REFINERIES{" "}
+        <span className={styles.vert_line}>|</span> SOLAR{" "}
+        <span className={styles.vert_line}>|</span> BUILDING{" "}
+        <span className={styles.vert_line}>|</span> HVAC{" "}
+        <span className={styles.vert_line}>|</span> FIRE FIGHTING{" "}
+        <span className={styles.vert_line}>|</span> AGRICULTURE & RESIDENTIAL
+      </p>
 
       <footer>
         <a
